@@ -71,3 +71,5 @@ target/
 
 matplotrecorder/*
 .vscode/settings.json
+
+venv
